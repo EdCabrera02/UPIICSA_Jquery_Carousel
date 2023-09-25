@@ -1,0 +1,55 @@
+#slide1 {
+    background-image: url('/Carousel/img/sociales.jpeg');
+  }
+  
+  #slide2 {
+    background-image: url('/Carousel/img/side_sociales.jpeg');
+  }
+  
+  #slide3 {
+    background-image: url('/Carousel/img/culturales.jpeg');
+  }
+  
+  #slide4 {
+    background-image: url('/Carousel/img/pasillo_ing.jpeg');
+  }
+  
+  #slide5 {
+    background-image: url('/Carousel/img/ing.jpeg');
+  }
+
+  #slide6 {
+    background-image: url('/Carousel/img/arboles.jpeg');
+  }
+
+  #slide7 {
+    background-image: url('/Carousel/img/main_entrance.jpeg');
+  }
+
+  #slide8 {
+    background-image: url('/Carousel/img/chavos.jpeg');
+  }
+
+  #slide9 {
+    background-image: url('/Carousel/img/side_gob.jpeg');
+  }
+
+  #slide10 {
+    background-image: url('/Carousel/img/gob.jpeg');
+  }
+
+  #carousel {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .slide-image {
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+  }
